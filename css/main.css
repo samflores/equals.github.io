@@ -106,6 +106,10 @@ Primary use:
   /* letter-spacing: 15px; */
 }
 
+.l1-txt1 a {
+  color: #91b251
+}
+
 .l1-txt2 {
   font-family: Poppins-Black;
   font-size: 120px;
